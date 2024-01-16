@@ -5,7 +5,7 @@
 \alias{employees}
 \title{Employee attrition data set}
 \format{
-A data frame with 4,300 rows and 24 variables; each row represents
+A data frame with 4,300 rows and 18 variables; each row represents
 one individual employed by the company as of January 1 of last year. The 'attrition'
 variable indicates whether each employee left the firm of their own volition by
 July 1 of the same year.
