@@ -1,0 +1,13 @@
+Package: mism6206data01
+Type: Package
+Title: Datasets for Modeling for Business
+Version: 0.1.0
+Author: Kate Ashley
+Maintainer: Kate Ashley <k.ashley@northeastern.edu>
+Description: This package contains datasets for use in the Modeling for Business course at Northeastern University.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.0
